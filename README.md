@@ -2,6 +2,7 @@
 Official Implementation 
 
 <div align=center>  <img src="figures/figure1_huan.pdf" alt="Comparision" width="500" align="bottom" /> </div>
+
 **Picture:**  *Illustration of performance comparison in terms of gaze error and tunable parameters. Our method achieved the lowest gaze error with negligible tunable parameters required for personalization.*
 
 ## Requirement
