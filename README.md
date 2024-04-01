@@ -1,5 +1,6 @@
 # Test-Time Personalization with Meta Prompt for Gaze Estimation -- AAAI 2024
-Official Implementation 
+
+**Official Implementation**
 
 <div align=center>  <img src="figures/figure1.png" alt="Comparision" width="500" align="bottom" /> </div>
 
