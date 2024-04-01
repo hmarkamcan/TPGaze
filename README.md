@@ -4,7 +4,7 @@
 
 <div align=center>  <img src="figures/figure1.png" alt="Comparision" width="500" align="bottom" /> </div>
 
-**Picture:**  *Illustration of performance comparison in terms of gaze error and tunable parameters. Our method achieved the lowest gaze error with negligible tunable parameters required for personalization.*
+**Figure:**  *Illustration of performance comparison in terms of gaze error and tunable parameters. Our method achieved the lowest gaze error with negligible tunable parameters required for personalization.*
 
 ## Requirement
 * Python 3.8.0
