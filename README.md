@@ -1,7 +1,7 @@
 # Test-Time Personalization with Meta Prompt for Gaze Estimation -- AAAI 2024
 Official Implementation 
 
-<div align=center>  <img src="./figure1.png" alt="Comparision" width="500" align="bottom" /> </div>
+<div align=center>  <img src="figures/figure1.png" alt="Comparision" width="500" align="bottom" /> </div>
 
 **Picture:**  *Illustration of performance comparison in terms of gaze error and tunable parameters. Our method achieved the lowest gaze error with negligible tunable parameters required for personalization.*
 
