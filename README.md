@@ -1,6 +1,9 @@
 # Test-Time Personalization with Meta Prompt for Gaze Estimation -- AAAI 2024
 Official Implementation 
 
+<div align=center>  <img src="figures/figure1_huan.pdf" alt="Teaser" width="500" align="bottom" /> </div>
+**Picture:**  *Illustration of performance comparison in terms of gaze error and tunable parameters. Our method achieved the lowest gaze error with negligible tunable parameters required for personalization.*
+
 ## Requirement
 * Python 3.8.0
 * Pytorch 1.10.2
@@ -39,4 +42,20 @@ The datasets are pre-processed using the method outlined in [1]. The code for da
 
 **Example usages are provided in `run_gaze360.sh` and `run_xgaze.sh`, please modify the directories and paths accordingly.**
 
+## Citation
+
+If you find this paper or code is helpful in your work, please consider citing:
+
+```latex
+@inproceedings{liu2024test,
+  title={Test-Time Personalization with Meta Prompt for Gaze Estimation},
+  author={Liu, Huan and Qi, Julia and Li, Zhenhao and Hassanpour, Mohammad and Wang, Yang and Plataniotis, Konstantinos N and Yu, Yuanhao},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={4},
+  pages={3621--3629},
+  year={2024}
+}
+```
+## Reference
 [1] Cheng, Y.; Wang, H.; Bao, Y.; and Lu, F. 2021. Appearance-based Gaze Estimation With Deep Learning: A Review and Benchmark. arXiv preprint arXiv:2104.12668.
